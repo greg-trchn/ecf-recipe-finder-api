@@ -1,5 +1,5 @@
 **RECIPE FINDER**
 <br>
-*Projet ECF blanc pour préparation examen*
+*PREPA 2 - Examen blanc de Concepteur Développeur d'application*
 
 API back-end de l'application Recipe Finder
